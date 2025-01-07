@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my projects<br>🌱 I’m currently learning Web3 Technologies
+🔭 I’m a passionate software engineer with experience in machine learning, signal processing, and automation systems<br>🌱 I’m currently learning Web3 Technologies
 
 
 # 💻 Tech Stack:
